@@ -49,26 +49,6 @@ This portfolio contains my data analytics projects completed using real-world da
 
 ---
 
-### 📌 Excel Projects (3)
-
-- Sample Superstore Analysis
-- Adecco HR Analytics
-- Porter Delivery Analysis
-
- ➡️ Project Link:
- - https://drive.google.com/file/d/1JwW1BEHgUdKXzB-2G9GQf5152AaeYKPp/view?usp=sharing
- - https://docs.google.com/spreadsheets/d/18ZBhSE2vcnLg63mI8w_u4af3q9fiMpRo/edit?      usp=drive_link&ouid=104068482214560027084&rtpof=true&sd=true
- - https://docs.google.com/spreadsheets/d/1DVWe3LGIPSNwRzDaL-bL6iNPQYViWk7N/edit?usp=drive_link&ouid=104068482214560027084&rtpof=true&sd=true
-  
-
-These projects include:
-- Pivot Tables
-- Power Query
-- Lookup Functions
-- Charts & Dashboards
-- Data Cleaning and Preprocessing techniques
-
----
 
 ## 📄 Project Submission
 
